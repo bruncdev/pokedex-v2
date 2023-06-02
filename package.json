@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "color-thief-node": "^1.0.4",
+    "colorthief": "^2.4.0",
     "vue": "^3.2.47"
   },
   "devDependencies": {
